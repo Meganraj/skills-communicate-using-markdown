@@ -7,3 +7,5 @@
 
 ![Image of GitHub Octocat mascot in a playful pose](https://octodex.github.com/images/yaktocat.png)
 
+```javascript
+var myVar = "Hello, world!";
